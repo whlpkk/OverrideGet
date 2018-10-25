@@ -125,5 +125,3 @@
 ```
 
 实际上只需要改下方法名，实现不需要任何改动，即可。
-
-最后附上示例代码的[demo](https://github.com/whlpkk/EqualDemo)
